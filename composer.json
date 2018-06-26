@@ -24,6 +24,7 @@
         "drupal/core": "~8.5.3",
         "drupal/entity_browser": "^1.5",
         "drupal/flag": "4.x-dev",
+        "drupal/geofield": "1.x-dev",
         "drupal/migrate_source_csv": "^2.2",
         "drupal/migrate_tools": "^4.0",
         "drupal/paragraphs": "^1.3",
